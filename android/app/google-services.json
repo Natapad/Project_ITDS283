@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706853876894",
+    "project_id": "vibesshop-60378",
+    "storage_bucket": "vibesshop-60378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706853876894:android:bb510aa5fe1d82cb25f78f",
+        "android_client_info": {
+          "package_name": "com.example.vibesshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706853876894-39dnr3nmrf2bhe08a430t8jr5h6lmq6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4B0B5upChWyh9qeB7CsiRDW2XcyT0MFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706853876894-39dnr3nmrf2bhe08a430t8jr5h6lmq6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
